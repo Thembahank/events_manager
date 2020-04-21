@@ -1,0 +1,1 @@
+# Events Manager PlatformEvents management company that is responsible for managing an events creation platform. The platform allows creators to create specific eventsvia the dashboard. Administration users have access to both events and creators that are active on the platform.1. [`./frontend/`](./frontend/README.md)2. [`./backend/`](./backend/README.md)
